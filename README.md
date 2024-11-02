@@ -1,3 +1,5 @@
+Delphi ported version is in a Delphi subfolder.
+
 # PascalTZ
 
 PascalTZ stands for "Pascal Time Zone". It allows you to convert between local times in various [time zones](http://en.wikipedia.org/wiki/Time_zone) and [GMT](http://en.wikipedia.org/wiki/Gmt)/[UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time), taking into account historical changes to time zone rules.
